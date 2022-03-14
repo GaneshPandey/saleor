@@ -852,7 +852,7 @@ pyflakes = ">=2.3.0,<2.4.0"
 
 [[package]]
 name = "fonttools"
-version = "4.29.1"
+version = "4.30.0"
 description = "Tools to manipulate font files"
 category = "main"
 optional = false
@@ -1606,7 +1606,7 @@ xpath = ["lxml (>=4.4.0)"]
 
 [[package]]
 name = "phonenumberslite"
-version = "8.12.43"
+version = "8.12.45"
 description = "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers."
 category = "main"
 optional = false
@@ -2760,8 +2760,8 @@ python-versions = "*"
 
 [metadata]
 lock-version = "1.1"
-  python-versions = "~3.9"
-content-hash = "df25060b9b384f5522faf88e936a5498cde70f9747ffcc1aa57b79388defedba"
+python-versions = "~3.9"
+content-hash = "f8f6840a2b162ae2715f438dde5dec13c10bedc25ef67fab1d363246dcc59202"
 
 [metadata.files]
 adyen = [
@@ -3224,8 +3224,8 @@ flake8 = [
     {file = "flake8-3.9.2.tar.gz", hash = "sha256:07528381786f2a6237b061f6e96610a4167b226cb926e2aa2b6b1d78057c576b"},
 ]
 fonttools = [
-    {file = "fonttools-4.29.1-py3-none-any.whl", hash = "sha256:1933415e0fbdf068815cb1baaa1f159e17830215f7e8624e5731122761627557"},
-    {file = "fonttools-4.29.1.zip", hash = "sha256:2b18a172120e32128a80efee04cff487d5d140fe7d817deb648b2eee023a40e4"},
+    {file = "fonttools-4.30.0-py3-none-any.whl", hash = "sha256:6985cc5380c06db07fdc73ade15e6adbd4ce6ff850d7561ca00f97090b4b263d"},
+    {file = "fonttools-4.30.0.zip", hash = "sha256:084dd1762f083a1bf49e41da1bfeafb475c9dce46265690a6bdd33290b9a63f4"},
 ]
 freezegun = [
     {file = "freezegun-1.1.0-py2.py3-none-any.whl", hash = "sha256:2ae695f7eb96c62529f03a038461afe3c692db3465e215355e1bb4b0ab408712"},
@@ -3777,8 +3777,8 @@ petl = [
     {file = "petl-1.7.7.tar.gz", hash = "sha256:75976361472da58b12780fe07c1520aebeae89ffa51df3a2c1760ef85de32bff"},
 ]
 phonenumberslite = [
-    {file = "phonenumberslite-8.12.43-py2.py3-none-any.whl", hash = "sha256:20de88db9cc615dca8696163513c7a0c4a075c3e1195e14c8a45589fafb92377"},
-    {file = "phonenumberslite-8.12.43.tar.gz", hash = "sha256:e64d3d7d9f23bc6e623e4bc29810cd686548553141bf42f5f7b2e4a98a982b6b"},
+    {file = "phonenumberslite-8.12.45-py2.py3-none-any.whl", hash = "sha256:ebfe83dd6c3eb8c2487cc135ebff2c246ee3888069ca0a83ab4dac63a24df077"},
+    {file = "phonenumberslite-8.12.45.tar.gz", hash = "sha256:1e7a2659d0ecd5017c4d0edd18d75dbe307909646a800ecda26865ad08bf2f00"},
 ]
 pillow = [
     {file = "Pillow-9.0.1-1-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:a5d24e1d674dd9d72c66ad3ea9131322819ff86250b30dc5821cbafcfa0b96b4"},
